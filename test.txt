@@ -1,1 +1,2 @@
 hola
+ya subi al repositorio de git y ahora intento hacer otro  cambio
