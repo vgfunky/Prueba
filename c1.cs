@@ -1,2 +1,3 @@
 void get();
-void set()
+void set();
+void add();
